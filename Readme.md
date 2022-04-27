@@ -1,3 +1,4 @@
+# Summary:
 simple script to collect data from twitter and presist it in postgress database
 Before running the script make sure you create env.py file in your director and add the following variables:
 
